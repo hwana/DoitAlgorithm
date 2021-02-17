@@ -14,7 +14,7 @@
 
 | 주   | 진행                                    | 배우는 내용                                                  | 완료 날짜 | 링크                                                         |
 | ---- | --------------------------------------- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| 1주  | 1장 기본 알고리즘 <br>2장 기본 자료구조 | 알고리즘이란?<br>반복 <br>배열 <br/>클래스                   |           | [Day1_coooldoggy](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/coooldoggy_20200215_ch1_day1.md)<br>[Day1_hwana](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/hwana_20200215_ch1_day1.md])<br>[Day2_coooldoggy](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/coooldoggy_20210217_ch1_day2.md)<br> |
+| 1주  | 1장 기본 알고리즘 <br>2장 기본 자료구조 | 알고리즘이란?<br>반복 <br>배열 <br/>클래스                   |           | [Day1_coooldoggy](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/coooldoggy_20200215_ch1_day1.md)<br>[Day1_hwana](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/hwana_20200215_ch1_day1.md)<br>[Day2_coooldoggy](https://github.com/coooldoggy/DoitAlgorithm/blob/main/ch1/coooldoggy_20210217_ch1_day2.md)<br> |
 | 2주  | 3장 검색                                | 검색알고리즘 <br>선형검색 <br>이진 검색                      |           |                                                              |
 | 3주  | 4장 스택과 큐                           | 스택                                                         |           |                                                              |
 | 4주  | 4장 스택과 큐                           | 큐                                                           |           |                                                              |
